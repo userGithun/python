@@ -8,5 +8,3 @@ f7 = (input("enter your 7 HOBBYs :"))
 
 myhobby = [f1,f2,f3,f4,f5,f6,f7]
 print (myhobby)
-
-
