@@ -5,3 +5,4 @@ user =["ram",34,50.5,True]
 # print(user[0])
 user[1] ="raj"
 print(user)
+
