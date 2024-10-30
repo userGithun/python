@@ -68,7 +68,8 @@ else:
 fruit_prices = {
     'apple': 250, 
     'banana': 40, 
-    'orange': 150}
+    'orange': 150,
+    }
 
 # Asking user for the fruit name
 fruit = input("Enter the name of the fruit (apple, banana, orange):\n ")
